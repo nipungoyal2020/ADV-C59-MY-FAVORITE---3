@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.button {
+    width: 400;
+    height: 50;
+    font-size: 30;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
